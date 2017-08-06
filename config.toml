@@ -3,10 +3,18 @@ languageCode = "en-us"
 theme = "hugo-classic"
 
 [[menu.main]]
-    name = ""
-    url = "/"
+    name = "eat"
+    url = "/tags/eat"
     weight = 1
 [[menu.main]]
-    name = "about"
-    url = "/about/"
+    name = "run"
+    url = "/tags/run"
     weight = 2
+[[menu.main]]
+    name = "code"
+    url = "/tags/code"
+    weight = 3
+[[menu.main]]
+    name = ".profile"
+    url = "/about/"
+    weight = 4
