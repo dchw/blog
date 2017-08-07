@@ -1,4 +1,4 @@
-baseURL = "https://eatrunco.de"
+baseURL = "http://eatrunco.de"
 languageCode = "en-us"
 theme = "hugo-classic"
 publishdir = "docs"
