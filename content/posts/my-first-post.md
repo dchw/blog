@@ -25,7 +25,7 @@ I'll post recipies, reviews, and pictures of the foods that I love and discover.
 
 ## Running
 
-Running is one of my favorite things to do. For me, its like meditation. I focus mainly on long distances (>= 26.2 miles).
+Running is one of my favorite things to do. For me, its like meditation. I focus mainly on long distances (marathon or longer).
 
 This section will be a general training log. I may also mix in some gear reviews or race reports.
 
@@ -33,7 +33,7 @@ This section will be a general training log. I may also mix in some gear reviews
 
 During the day, I pretend to be a software engineer at a company called Imagine Learning. Here is where I should also note that this is _my_ blog, and is not representative of my employer.
 
-But really, I'm jsut a professional Googler who has become very good at fooling people. *And they pay me for it!* I'll share the interesting discoveries I find, and hopefully some updates on side projects as they spin up.
+But really, I'm jsut a professional Google-searcher who has become very good at fooling people. *And they pay me for it!* I'll share the interesting discoveries I find, and hopefully some updates on side projects as they spin up.
 
 ## But Really
 
