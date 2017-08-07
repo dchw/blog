@@ -1,6 +1,7 @@
 baseURL = "https://eatrunco.de"
 languageCode = "en-us"
 theme = "hugo-classic"
+publishdir = "docs"
 
 [[menu.main]]
     name = "eat"
@@ -15,6 +16,6 @@ theme = "hugo-classic"
     url = "/tags/code"
     weight = 3
 [[menu.main]]
-    name = ".profile"
+    name = "readme"
     url = "/about/"
     weight = 4
