@@ -3,50 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://eatrunco.de/posts/my-first-post/</loc>
+    <loc>http://eatrunco.de/posts/my-first-post/</loc>
     <lastmod>2017-08-05T23:22:12-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eatrunco.de/</loc>
-    <lastmod>2017-08-05T23:22:12-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://eatrunco.de/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://eatrunco.de/posts/</loc>
-    <lastmod>2017-08-05T23:22:12-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eatrunco.de/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://eatrunco.de/tags/code/</loc>
+    <loc>http://eatrunco.de/</loc>
     <lastmod>2017-08-05T23:22:12-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://eatrunco.de/tags/eat/</loc>
+    <loc>http://eatrunco.de/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://eatrunco.de/posts/</loc>
+    <lastmod>2017-08-05T23:22:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eatrunco.de/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://eatrunco.de/tags/code/</loc>
     <lastmod>2017-08-05T23:22:12-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://eatrunco.de/tags/run/</loc>
+    <loc>http://eatrunco.de/tags/eat/</loc>
     <lastmod>2017-08-05T23:22:12-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://eatrunco.de/tags/</loc>
+    <loc>http://eatrunco.de/tags/run/</loc>
+    <lastmod>2017-08-05T23:22:12-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://eatrunco.de/tags/</loc>
     <lastmod>2017-08-05T23:22:12-06:00</lastmod>
     <priority>0</priority>
   </url>

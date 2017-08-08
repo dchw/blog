@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://eatrunco.de/tags/</link>
+    <link>http://eatrunco.de/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Aug 2017 23:22:12 -0600</lastBuildDate>
     
-	<atom:link href="https://eatrunco.de/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://eatrunco.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Code</title>
-      <link>https://eatrunco.de/tags/code/</link>
+      <link>http://eatrunco.de/tags/code/</link>
       <pubDate>Sat, 05 Aug 2017 23:22:12 -0600</pubDate>
       
-      <guid>https://eatrunco.de/tags/code/</guid>
+      <guid>http://eatrunco.de/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eat</title>
-      <link>https://eatrunco.de/tags/eat/</link>
+      <link>http://eatrunco.de/tags/eat/</link>
       <pubDate>Sat, 05 Aug 2017 23:22:12 -0600</pubDate>
       
-      <guid>https://eatrunco.de/tags/eat/</guid>
+      <guid>http://eatrunco.de/tags/eat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Run</title>
-      <link>https://eatrunco.de/tags/run/</link>
+      <link>http://eatrunco.de/tags/run/</link>
       <pubDate>Sat, 05 Aug 2017 23:22:12 -0600</pubDate>
       
-      <guid>https://eatrunco.de/tags/run/</guid>
+      <guid>http://eatrunco.de/tags/run/</guid>
       <description></description>
     </item>
     
